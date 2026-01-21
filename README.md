@@ -7,8 +7,13 @@ Framework Used
 Flask – A lightweight Python web framework used for building web applications.
 
 How to Run the Application Locally
+
 Open the project in PyCharm.
+
 Make sure Flask is installed in the Python interpreter.
+
 Run the app.py file.
+
 Open a web browser and go to http://127.0.0.1:5000.
+
 The message “Hello World Katrina Battad!” should appear on the page.
