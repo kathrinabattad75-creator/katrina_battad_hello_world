@@ -5,6 +5,7 @@ This project is a simple Flask web application created as part of Activity 3 in 
 
 Framework Used
 Flask – A lightweight Python web framework used for building web applications.
+
 How to Run the Application Locally
 Open the project in PyCharm.
 Make sure Flask is installed in the Python interpreter.
